@@ -1,0 +1,5 @@
+.background {
+    background-image:url(/images/banner.png);
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+}
